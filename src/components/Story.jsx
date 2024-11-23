@@ -111,11 +111,13 @@ const FloatingImage = () => {
               opportunities.
             </p>
 
-            <Button
-              id="realm-btn"
-              title="discover prologue"
-              containerClass="mt-5"
-            />
+            <a href="https://vipin-kumar-portfolio.vercel.app/">
+              <Button
+                id="realm-btn"
+                title="discover portfolio"
+                containerClass="mt-5"
+              />
+            </a>
           </div>
         </div>
       </div>

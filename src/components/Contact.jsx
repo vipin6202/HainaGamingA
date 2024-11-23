@@ -35,7 +35,7 @@ const Contact = () => {
 
         <div className="flex flex-col items-center text-center">
           <p className="mb-10 font-general text-[10px] uppercase">
-            Join Zentry
+            JOIN GAMING WORLD
           </p>
 
           <AnimatedTitle
@@ -43,7 +43,9 @@ const Contact = () => {
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
 
-          <Button title="contact us" containerClass="mt-10 cursor-pointer" />
+          <a href="https://vipin-kumar-portfolio.vercel.app/">
+            <Button title="Contact Us" containerClass="mt-10 cursor-pointer" />
+          </a>
         </div>
       </div>
     </div>
